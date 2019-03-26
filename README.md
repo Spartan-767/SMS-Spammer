@@ -4,5 +4,5 @@ This is a simple SMS Spammer for termux
 More updates coming soon
 
 Directions: 
-pip2 install -r Requirements.txt
-python2 SMS-Spammer.py
+1. pip2 install -r Requirements.txt
+2. python2 SMS-Spammer.py
