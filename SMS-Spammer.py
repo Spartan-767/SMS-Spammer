@@ -36,8 +36,8 @@ elif (Spammer == '02' or Spammer == '2'):
        print "Coming Soon"
 
 elif (Spammer == '03' or Spammer == '3'):
-       os.system("git clone")
-
+       os.system("git clone https://github.com/STAR-Sec/SMS-Spammer")
+      
 elif (Spammer == '00' or Spammer == '0'):
        print "\n[!] Exit the Program..."
        sys.exit()
