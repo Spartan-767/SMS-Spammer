@@ -6,5 +6,7 @@ More updates coming soon
 Directions: 
 1. git clone https://github.com/STAR-Sec/SMS-Spammer
 2. Install and setup termux-api from F-Droid or Gplay.
+   Link to instructions: https://wiki.termux.com/wiki/Termux:API
 3. pip2 install -r requirements.txt
-4. python2 SMS-Spammer.py
+4. Give termux SMS permissons
+5. python2 SMS-Spammer.py
