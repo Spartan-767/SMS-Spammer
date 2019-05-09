@@ -10,3 +10,7 @@ Directions:
 3. pip2 install -r requirements.txt
 4. Give termux SMS permissons
 5. python2 SMS-Spammer.py
+
+
+Video Tutorial:
+https://youtu.be/1c0nagvUJnM
