@@ -13,4 +13,4 @@ Directions:
 
 
 Video Tutorial:
-[![Watch the video](https://img.youtube.com/vi/1c0nagvUJnM/maxresdefault.jpg)](https://youtu.be/1c0nagvUJnM)
+[![Watch the video](https://img.youtube.com/vi/1c0nagvUJnM&feature=youtu.be/maxresdefault.jpg)](https://youtu.be/1c0nagvUJnM)
