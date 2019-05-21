@@ -1,4 +1,2 @@
-python
-python2
 termux-api
 wait
