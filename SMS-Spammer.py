@@ -1,6 +1,11 @@
 #!/usr/bin/python
 import sys, os
 
+# Restart ####################
+def restart_program():
+     python = sys.executable
+     os.execl(python, python, * sys.argv)
+     curdir = os.getcwd()
 ##############################
 """ Coded By Allistar by Star Sec."""
 os.system("clear")
