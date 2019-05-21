@@ -3,6 +3,10 @@ This is a simple SMS Spammer for termux
 - Coded by Allistar from Star Sec.
 More updates coming soon
 
+Requirements: 
+- Termux-api
+- Python2
+
 Directions: 
 1. git clone https://github.com/STAR-Sec/SMS-Spammer
 2. Install and setup termux-api from F-Droid or Gplay.
