@@ -38,9 +38,9 @@ while True:
             print "(Add Contact y or n?)"
             Choice = raw_input(">")
             if (Choice == 'Y' or Choice == 'y'):
-                 Name1 = Empty
-                 Name2 = Empty
-                 Name3 = Empty
+                 Name1 = "Empty"
+                 Name2 = "Empty"
+                 Name3 = "Empty"
                  print "Contact 1: " + Name1
                  print "Contact 2: " + Name2
                  print "Contact 3: " + Name3 
