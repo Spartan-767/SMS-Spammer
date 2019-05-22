@@ -18,7 +18,7 @@ print "                               |_|                                       
 print "------------------------------------------------------------------------- "
 print "  ===|[ SMS Spamer ]|===         "
 print "  [01] Setup New Session         "
-print "  [02] Repeat Last Spam          "
+print "  [02] Spam From Contact         "
 print "  [03] Update                    "
 print "  [00] Exit                      "
 print "                                 " 
@@ -35,8 +35,14 @@ while True:
             break
        
      elif (Spammer == '02' or Spammer == '2'):
-            print "Coming Soon"
-            break
+            print "(Add Contact y or n?)"
+            Choice = raw_input(">")
+            if (Choice == 'Y' or Choice == 'y'):
+                 Name1 = raw_input("Name: ")
+                 Number1 = raw_input("Number: ")
+            elif (Choice == 'N' or Choice == 'n'):
+                 print "exiting"
+                 break
 
      elif (Spammer == '03' or Spammer == '3'):
             os.system("git clone https://github.com/STAR-Sec/SMS-Spammer")
