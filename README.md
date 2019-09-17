@@ -4,7 +4,7 @@ This is a simple SMS Spammer for termux
 More updates coming soon
 
 Requirements: 
-- Termux-api
+- Termux-api(Fixed app included below)
 - Python2
 
 Directions: 
