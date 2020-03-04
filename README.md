@@ -9,7 +9,7 @@ Requirements:
 
 Directions: 
 1. git clone https://github.com/STAR-Sec/SMS-Spammer
-2. Install and setup the unpatched termux-api from here()
+2. Install and setup the unpatched termux-api from here(https://mega.nz/#!5Q0ykAqD!0Oe38bArKxWheoyaBE3DUjGoIpjCGAseJuZRhJSzOSM)
    Link to instructions: https://wiki.termux.com/wiki/Termux:API
 3. pip2 install -r requirements.txt
 4. apt-get install python2
