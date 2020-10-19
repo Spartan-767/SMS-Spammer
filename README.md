@@ -13,8 +13,9 @@ Directions:
    Link to instructions: https://wiki.termux.com/wiki/Termux:API
 3. pip2 install -r requirements.txt
 4. apt-get install python2
-5. Give termux SMS permissons
-6. python2 SMS-Spammer.py
+5. pig install termux-api
+6. Give termux SMS permissons
+7. python2 SMS-Spammer.py
 
 
 Video Tutorial:
