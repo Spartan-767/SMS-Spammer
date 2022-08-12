@@ -6,7 +6,7 @@ def restart_program():
    os.execl(python, python, * sys.argv)
    curdir = os.getcwd()
 ##############################
-""" MY-TEST."""
+""" Developed by spartan """
 os.system("clear")
 print " "
 print "   ___   __  __   ___     ___       "
